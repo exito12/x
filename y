@@ -61,7 +61,7 @@ http://live.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", RUSSIAN
 http://live.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/fondo-xxx-del-peligro-l%C3%ADneas-amonestadoras-negro-y-amarillo-37211638.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", LESBIAN
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/adultos-solo-firman-signo-xxx_58199-248.jpg?w=996" group-title="20-SOLO PARA ADULTOS juanpablo", LESBIAN
 http://live.adultiptv.net/lesbian.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", ANAL
@@ -73,9 +73,7 @@ http://live.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
 http://live.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/el-grunge-texturiz%C3%B3-sello-adulto-del-xxx-122142866.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/sexo-letras-en-secuencias-39903746.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
 http://live.adultiptv.net/blonde.m3u8
-
-
 
 
