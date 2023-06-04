@@ -31,7 +31,7 @@ http://live.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", MILF
 http://live.adultiptv.net/milf.m3u8
 
-#EXTINF:-1 tvg-logo="https://static1.bigstockphoto.com/5/3/5/large1500/53585560.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", LATINAS
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/icono-51288321.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", LATINAS
 http://live.adultiptv.net/latina.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", BIG DICK
@@ -43,45 +43,38 @@ http://live.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", BIG TITS
 http://live.adultiptv.net/bigtits.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/coraz%C3%B3n-caliente-35198524.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLOWJOB
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/ejemplo-del-garabato-rojo-xxx-59842967.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLOWJOB
 http://live.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", FETISH
 http://live.adultiptv.net/fetish.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/mujer-hermosa-y-joven-46900453.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", TEEN
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/fije-de-se%C3%B1ales-ne%C3%B3n-adultos-solamente-m%C3%A1s-sexo-y-xxx-contenido-restricto-bandera-video-er%C3%B3tica-del-concepto-cartelera-134438347.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", TEEN
 http://live.adultiptv.net/teen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", CUCKOLD
 http://live.adultiptv.net/cuckold.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/santa-claus-y-dos-muchachas-46996615.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", THREESOME
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/adultos-solo-firman-signo-xxx_58199-248.jpg?w=996" group-title="20-SOLO PARA ADULTOS juanpablo", THREESOME
 http://live.adultiptv.net/threesome.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", RUSSIAN
 http://live.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/barra-de-labios-brillante-atractiva-del-lustre-boca-abierta-er%C3%B3tica-labio-rojo-mojado-sexual-dientes-blancos-ilustraci%C3%B3n-vector-134614537.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", LESBIAN
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/fondo-xxx-del-peligro-l%C3%ADneas-amonestadoras-negro-y-amarillo-37211638.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", LESBIAN
 http://live.adultiptv.net/lesbian.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", ANAL
 http://live.adultiptv.net/anal.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/mujer-hermosa-45515220.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BRUNETTE
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/yesos-formados-xxx-en-fondo-rojo-37091547.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BRUNETTE
 http://live.adultiptv.net/brunette.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.culturamas.es/wp-content/uploads/2013/07/tumblr_lzwhi7ujcd1qaqs42o1_500.jpg?resize=570%2C380" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
 http://live.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/mujer-hermosa-45341135.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/el-grunge-texturiz%C3%B3-sello-adulto-del-xxx-122142866.jpg" group-title="20-SOLO PARA ADULTOS juanpablo", BLONDE
 http://live.adultiptv.net/blonde.m3u8
-
-
-
-
-
-
-
 
 
 
